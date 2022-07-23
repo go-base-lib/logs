@@ -1,4 +1,4 @@
-module github.com/byzk-worker/go-common-logs
+module github.com/go-base-lib/logs
 
 go 1.18
 
